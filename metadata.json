@@ -1,0 +1,7 @@
+{
+  "name": "LIGHT·MATTERS Exhibition editing",
+  "description": "An interactive digital companion for the LIGHT·MATTERS museum exhibition, exploring advanced materials like Aerogel, Graphene, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
